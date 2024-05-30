@@ -5,7 +5,7 @@
 # Как запускать
 1 вариант:
 1) Выставить API key в config.json ([Ссылка для получения ключа](http://steamcommunity.com/dev/apikey))
-2) запустить файл `start.bat`
+2) Запустить файл `start.bat`
 
 2 вариант:
 1) Выставить API key в config.json ([Ссылка для получения ключа](http://steamcommunity.com/dev/apikey))
